@@ -110,7 +110,8 @@ button a {
 	width: 1.3em;
 	height: auto;
 	margin: 0em;
-	filter: grayscale(75%);
+	filter: grayscale(25%);
+	border-radius: 0em;
 }
 ::selection {
 	background: var(--txt);
